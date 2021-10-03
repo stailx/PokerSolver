@@ -1,5 +1,5 @@
 # PokerSolver
-A poker calculator and Nash equilibrium solver
+A poker calculator and Nash equilibrium solver the GUI is done in Tkinter (Python) and the backEnd is done in C++.
 
 
 
