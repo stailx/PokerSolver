@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1582065671 source:c:\users\theo\desktop\nouveau dossier (2)\clib2\main.cpp
+	"main.h"
+	"main2.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1582065671 c:\users\theo\desktop\nouveau dossier (2)\clib2\main.h
+	<windows.h>
+
+1581878558 c:\users\theo\desktop\nouveau dossier (2)\clib2\main2.h
+
+1582349776 source:c:\users\theo\desktop\old bureau omen\nouveau dossier (2)\clib2\main.cpp
+	"main.h"
+	"main2.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1582349776 c:\users\theo\desktop\old bureau omen\nouveau dossier (2)\clib2\main.h
+	<windows.h>
+
+1581882158 c:\users\theo\desktop\old bureau omen\nouveau dossier (2)\clib2\main2.h
+
