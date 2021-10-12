@@ -9,4 +9,4 @@ Calculate nash Equilibrium between 1 to 20 Big Blinds in an Heads up No Limits H
 
 
 ![Calculator](https://github.com/stailx/PokerSolver/blob/main/ReadMe/CalculatorHandHU.png)
-- Calculate Equity of an hand versus an other one.
+- Calculate Equity of a hand versus another one.
